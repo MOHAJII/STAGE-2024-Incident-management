@@ -1,0 +1,33 @@
+html {
+    /* Style the scrollbar in Firefox */
+
+    scrollbar-width: thin; /* Options: auto, thin */
+    scrollbar-color: #999 #f1f1f1; /* thumb color, track color */
+    overflow-y: scroll;
+    background-image: linear-gradient(to right, #C3E0E5,#274472 );
+
+}
+
+body {
+    background-image: linear-gradient(to right, #C3E0E5,#274472 );
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#nav-bar {
+    background-image: linear-gradient(to right, #C3E0E5,#274472 );
+    margin-bottom: 30px;
+}
+
+#incidents {
+    background-image: linear-gradient(to right, #C3E0E5,#274472 );
+    height: 100vh;
+}
+
+
+
